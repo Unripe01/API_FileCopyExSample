@@ -1,0 +1,13 @@
+c:\users\ju7891\documents\visual studio 2010\Projects\WPF_FileCopyEx\WPF_FileCopyEx\bin\Debug\WPF_FileCopyEx.exe
+c:\users\ju7891\documents\visual studio 2010\Projects\WPF_FileCopyEx\WPF_FileCopyEx\bin\Debug\WPF_FileCopyEx.pdb
+c:\users\ju7891\documents\visual studio 2010\Projects\WPF_FileCopyEx\WPF_FileCopyEx\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ju7891\documents\visual studio 2010\Projects\WPF_FileCopyEx\WPF_FileCopyEx\obj\x86\Debug\MainWindow.baml
+c:\users\ju7891\documents\visual studio 2010\Projects\WPF_FileCopyEx\WPF_FileCopyEx\obj\x86\Debug\MainWindow.g.cs
+c:\users\ju7891\documents\visual studio 2010\Projects\WPF_FileCopyEx\WPF_FileCopyEx\obj\x86\Debug\App.g.cs
+c:\users\ju7891\documents\visual studio 2010\Projects\WPF_FileCopyEx\WPF_FileCopyEx\obj\x86\Debug\WPF_FileCopyEx_MarkupCompile.cache
+c:\users\ju7891\documents\visual studio 2010\Projects\WPF_FileCopyEx\WPF_FileCopyEx\obj\x86\Debug\WPF_FileCopyEx.g.resources
+c:\users\ju7891\documents\visual studio 2010\Projects\WPF_FileCopyEx\WPF_FileCopyEx\obj\x86\Debug\WPF_FileCopyEx.Properties.Resources.resources
+c:\users\ju7891\documents\visual studio 2010\Projects\WPF_FileCopyEx\WPF_FileCopyEx\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ju7891\documents\visual studio 2010\Projects\WPF_FileCopyEx\WPF_FileCopyEx\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ju7891\documents\visual studio 2010\Projects\WPF_FileCopyEx\WPF_FileCopyEx\obj\x86\Debug\WPF_FileCopyEx.exe
+c:\users\ju7891\documents\visual studio 2010\Projects\WPF_FileCopyEx\WPF_FileCopyEx\obj\x86\Debug\WPF_FileCopyEx.pdb
